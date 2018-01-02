@@ -1,0 +1,2 @@
+# alacoin
+ala coin
